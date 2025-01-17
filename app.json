@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "app-cars",
+    "slug": "app-cars",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#111828"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.willrpg.boilerplatev3"
+    },
+    "android": {
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#111828"
+      },
+      "package": "com.willrpg.appcars"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-localization"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "a70262b3-ffae-4d33-a26e-386070b905b6"
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "common": {
+    "goBack": "Voltar"
+  },
+  "welcomeScreen": {
+    "title": "Bem-vindo",
+    "description": "Descubra os melhores carros e marcas em um só lugar.",
+    "titleButton": "Começar"
+  },
+  "preLoginScreen": {
+    "titleBtn": "Iniciar",
+    "titleModal": "Entrar",
+    "modalLabelUser": "Forneça seu usuario por favor",
+    "modalLabelPassword": "Forneça sua senha por favor",
+    "modalPlaceholderUser": "Digite seu usuario",
+    "modalPlaceholderPassword": "Digite sua senha",
+    "btnModal": "Entrar",
+    "subTitleBtn": "Voltar"
+  },
+  "tabRoutes": {
+    "homeListScreen": "Lista",
+    "account": "Conta"
+  },
+  "homeListScreen": {
+    "title": "Lista",
+    "searchPlaceholder": "Buscar",
+    "noResults": "Nenhum resultado encontrado"
+  },
+  "modelCarScreen": {
+    "title": "Modelos",
+    "error": "Erro ao buscar modelos",
+    "labelCode": "Código"
+  },
+  "accountScreen": {
+    "title": "Conta",
+    "social": "Redes sociais",
+    "advanced": "Avançado",
+    "exit": "Sair",
+    "changeLanguage": "Alterar idioma",
+    "toastLogoutTitle": "Desconectado",
+    "toastLogoutDescription": "Desconectado com sucesso",
+    "toastLanguageTitle": "Idioma Alterado",
+    "toastLanguageDescription": "O idioma foi alterado com sucesso",
+    "descriptionModalLogout": "Tem certeza que deseja sair?",
+    "titleButtonModalLogout": "Sair",
+    "titleButtonModalCancel": "Cancelar"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "common": {
+    "goBack": "Back"
+  },
+  "welcomeScreen": {
+    "title": "Welcome",
+    "description": "Discover the best cars and brands all in one place.",
+    "titleButton": "Get Started"
+  },
+  "preLoginScreen": {
+    "titleBtn": "Start",
+    "titleModal": "Sign In",
+    "modalLabelUser": "Please provide your username",
+    "modalPlaceholderUser": "Enter your username",
+    "modalLabelPassword": "Please provide your password",
+    "modalPlaceholderPassword": "Enter your password",
+    "btnModal": "Sign In",
+    "subTitleBtn": "Back"
+  },
+  "tabRoutes": {
+    "homeListScreen": "List",
+    "account": "Account"
+  },
+  "homeListScreen": {
+    "title": "List",
+    "searchPlaceholder": "Search",
+    "noResults": "No results found"
+  },
+  "modelCarScreen": {
+    "title": "Models",
+    "error": "Error fetching models",
+    "labelCode": "Code"
+  },
+  "accountScreen": {
+    "title": "Account",
+    "social": "Social Media",
+    "advanced": "Advanced",
+    "exit": "Log Out",
+    "changeLanguage": "Change Language",
+    "toastLogoutTitle": "Logged Out",
+    "toastLogoutDescription": "Successfully logged out",
+    "toastLanguageTitle": "Language Changed",
+    "toastLanguageDescription": "The language has been successfully changed",
+    "descriptionModalLogout": "Are you sure you want to log out?",
+    "titleButtonModalLogout": "Log Out",
+    "titleButtonModalCancel": "Cancel"
+  }
+}

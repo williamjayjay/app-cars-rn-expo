@@ -1,0 +1,23 @@
+@BRAND_CODE = 56
+
+###
+# @name authentication_user
+POST https://test-api-y04b.onrender.com/signIn
+Content-Type: application/json
+
+{
+  "user": "teste",
+  "password": "123"
+}
+###
+
+# @name get_cars_brand
+GET https://parallelum.com.br/fipe/api/v1/carros/marcas
+Content-Type: application/json
+
+
+###
+# @name get_cars_brand_by_id
+GET https://parallelum.com.br/fipe/api/v1/carros/marcas/{{BRAND_CODE}}/modelos
+Content-Type: application/json
+###
