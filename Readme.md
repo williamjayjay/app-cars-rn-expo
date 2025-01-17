@@ -25,7 +25,9 @@ This application is a mobile developer challenge focused on creating a simple ye
 </p>
 
 ## VideoCase
-<!-- videocase area -->
+
+https://github.com/user-attachments/assets/dfdb6b39-8f32-4eb8-92f3-83518908dd29
+
 
 ## 🥶 About the Project
 
